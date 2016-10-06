@@ -96,4 +96,5 @@
 127.0.0.1 ads.pandora.tv.net
 127.0.0.1 stats.pandora.com
 
-
+# YouTube
+127.0.0.1 ads.youtube.com
