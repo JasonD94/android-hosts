@@ -14,9 +14,10 @@ The address you should use for the hosts file in AdAway / other Ad blockers is:
 [https://raw.githubusercontent.com/JasonD94/android-hosts/master/hosts.txt](https://raw.githubusercontent.com/JasonD94/android-hosts/master/hosts.txt)
 
 The sources for this host file can be found here:
-[Reddit comment by jamd315 (Spotify)](https://www.reddit.com/r/technology/comments/5652yu/spotify_has_been_serving_computer_viruses_to/d8gczkl)
-[Reddit comment by ojw_15 (Spotify)](https://www.reddit.com/r/Piracy/comments/4hu17m/spotify_desktop_version_still_shows_ads_with/d2vzp3i)
-[Reddit post by nic2849 (Spotify)](https://www.reddit.com/r/Piracy/comments/4kn6rq/comprehensive_guide_to_blocking_ads_on_spotify/)
+- [Reddit comment by jamd315 (Spotify)](https://www.reddit.com/r/technology/comments/5652yu/spotify_has_been_serving_computer_viruses_to/d8gczkl)
+- [Reddit comment by ojw_15 (Spotify)](https://www.reddit.com/r/Piracy/comments/4hu17m/spotify_desktop_version_still_shows_ads_with/d2vzp3i)
+- [Reddit post by nic2849 (Spotify)](https://www.reddit.com/r/Piracy/comments/4kn6rq/comprehensive_guide_to_blocking_ads_on_spotify/)
+- [MoaAB](http://forum.xda-developers.com/showthread.php?t=1916098)
 
 Other hosts files I use and recommend:
 
@@ -34,6 +35,8 @@ Dan Pollock maintains this hosts file and it is incredibly useful to have.
 Block malware as well - why not?
 - [http://pgl.yoyo.org/adservers/](http://pgl.yoyo.org/adservers/)
 Included by default in AdAway
+- [MoaAB](http://forum.xda-developers.com/showthread.php?t=1916098)
+This could be useful for finding more sources to add.
 
 You can find a really good list on
 [AdAway's GitHub wiki](https://github.com/AdAway/AdAway/wiki/HostsSources)
