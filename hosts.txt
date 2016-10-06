@@ -1,6 +1,7 @@
 127.0.0.1  localhost
 ::1  localhost
 
+# General ad blocking
 127.0.0.1 media-match.com
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 open.spotify.com
@@ -10,12 +11,12 @@
 127.0.0.1 www.omaze.com
 127.0.0.1 omaze.com
 127.0.0.1 bounceexchange.com
+
 # SPOTIFY ADS BEGIN #
 127.0.0.1 gads.pubmatic.com
 127.0.0.1 spclient.wg.spotify.com
 
-#Source: https://www.reddit.com/r/Piracy/comments/4hu17m/spotify_desktop_version_still_shows_ads_with/d2vzp3i
-#Spotify Original list
+# Spotify Default
 127.0.0.1 media-match.com
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 www.googleadservices.com
@@ -29,7 +30,7 @@
 127.0.0.1 omaze.com
 127.0.0.1 bounceexchange.com
 
-#Spotify Sniff 5/18/16 added by me
+# Spotify Sniff 5/18/16 added by me
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 pagead.l.doubleclick.net
 127.0.0.1 googlehosted.l.googleusercontent.com
@@ -48,7 +49,7 @@
 127.0.0.1 geo3.ggpht.com
 127.0.0.1 showads33000.pubmatic.com
 
-#Source: https://www.reddit.com/r/Piracy/comments/4kn6rq/comprehensive_guide_to_blocking_ads_on_spotify/
+# Check these for duplicates. (Spotify?)
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 ads-fa.spotify.com
@@ -88,3 +89,9 @@
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.googletagservices.com
 127.0.0.1 www.omaze.com
+
+# Pandora ad blocking
+127.0.0.1 http://www.pandora.com/static/promo/
+127.0.0.1 ad.pandora.tv
+127.0.0.1 ads.pandora.tv.net
+127.0.0.1 stats.pandora.com
