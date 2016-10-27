@@ -98,3 +98,12 @@
 
 # YouTube
 127.0.0.1 ads.youtube.com
+127.0.0.1 ads.youtube.com
+127.0.0.1 s0.2mdn.net
+127.0.0.1 s1.2mdn.net
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 static.doubleclick.net
+127.0.0.1 files.adform.net
+127.0.0.1 secure-ds.serving-sys.com
