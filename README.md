@@ -18,6 +18,7 @@ The sources for this host file can be found here:
 - [Reddit comment by ojw_15 (Spotify)](https://www.reddit.com/r/Piracy/comments/4hu17m/spotify_desktop_version_still_shows_ads_with/d2vzp3i)
 - [Reddit post by nic2849 (Spotify)](https://www.reddit.com/r/Piracy/comments/4kn6rq/comprehensive_guide_to_blocking_ads_on_spotify/)
 - [MoaAB](http://forum.xda-developers.com/showthread.php?t=1916098)
+- [Reddit Post (YouTube)](https://www.reddit.com/r/dropgoogle/comments/4q84se/hosts_file_entries_to_block_google_ads_on_youtube/)
 
 Other hosts files I use and recommend:
 
